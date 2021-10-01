@@ -68,7 +68,7 @@ sup{
 }
 
 .s3 {
-    background-image: url('/home/kumar/Desktop/Mountains/images/banner4.jpg');
+    background-image: url('images/banner4.jpg');
     background-size: cover;
     min-height: 150vh;
     display: flex;
