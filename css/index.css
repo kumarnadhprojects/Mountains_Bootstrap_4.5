@@ -68,7 +68,7 @@ sup{
 }
 
 .s3 {
-    background-image: url('images/banner4.png');
+    background-image: url('https://raw.githubusercontent.com/kumarnadhprojects/Mountains_Bootstrap_4.5/main/images/banner4.jpg');
     background-size: cover;
     min-height: 150vh;
     display: flex;
